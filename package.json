@@ -1,0 +1,12 @@
+{
+  "name": "zirve-turizm",
+  "version": "1.0.0",
+  "description": "Zirve Turizm ve Taşımacılık Web Sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
